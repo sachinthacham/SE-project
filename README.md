@@ -1,4 +1,7 @@
 # SE-project
 
+
 sachintha chamindu
-university of moratuwa
+university of moratuwag
+I did my changes on newREADME file
+
